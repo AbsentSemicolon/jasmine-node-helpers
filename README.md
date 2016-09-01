@@ -117,10 +117,10 @@ See how much simpler that is? You won't need to add `done` to the `it` or accide
 
 [Code Coverage]: https://codecov.io/github/tests-always-included/jasmine-node-helpers?branch=master
 [codecov-image]: https://codecov.io/github/tests-always-included/jasmine-node-helpers/coverage.svg?branch=master
-[Dev Dependencies]: https://david-dm.org/tests-always-included/jasmine-node-helpers#info=devDependencies
-[devdependencies-image]: https://david-dm.org/tests-always-included/jasmine-node-helpers/dev-status.png
-[Dependencies]: https://david-dm.org/tests-always-included/jasmine-node-helpers
-[dependencies-image]: https://david-dm.org/tests-always-included/jasmine-node-helpers.png
+[Dev Dependencies]: https://david-dm.org/tests-always-included/jasmine-node-helpers/master#info=devDependencies
+[devdependencies-image]: https://david-dm.org/tests-always-included/jasmine-node-helpers/master/dev-status.png
+[Dependencies]: https://david-dm.org/tests-always-included/jasmine-node-helpers/master
+[dependencies-image]: https://david-dm.org/tests-always-included/jasmine-node-helpers/master.png
 [Jasmine]: https://jasmine.github.io/
 [Jasmine-Node]: https://www.npmjs.com/package/jasmine-node
 [Node.js]: https://nodejs.org
